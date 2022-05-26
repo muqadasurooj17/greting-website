@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/greting-website/static/css/main.7fcc89bd.css",
+    "main.js": "/greting-website/static/js/main.32d766f8.js",
+    "index.html": "/greting-website/index.html",
+    "main.7fcc89bd.css.map": "/greting-website/static/css/main.7fcc89bd.css.map",
+    "main.32d766f8.js.map": "/greting-website/static/js/main.32d766f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fcc89bd.css",
+    "static/js/main.32d766f8.js"
+  ]
+}
